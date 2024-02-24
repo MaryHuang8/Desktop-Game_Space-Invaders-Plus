@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SpaceInvaderTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-08T13:54:25" hostname="Marys-Air-13.modem" time="12.428">
+  <properties/>
+  <testcase name="testSpaceInvaderOriginal" classname="SpaceInvaderTest" time="8.236"/>
+  <testcase name="testSpaceInvaderPowerfulAlien" classname="SpaceInvaderTest" time="2.077"/>
+  <testcase name="testSpaceInvaderFastMoving" classname="SpaceInvaderTest" time="2.114"/>
+  <system-out><![CDATA[logResult = Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+An alien has been hit.powerful@0-2
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+An alien has been hit.powerful@0-2
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+An alien has been hit.powerful@0-2
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+An alien has been hit.powerful@0-2
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+An alien has been hit.powerful@0-2
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Dead@0-0#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+
+logResult = Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@75-10#alien@0-1@Alive@85-10#powerful@0-2@Alive@95-10#alien@0-3@Alive@105-10#alien@0-4@Alive@115-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@85-10#alien@0-1@Alive@95-10#powerful@0-2@Alive@105-10#alien@0-3@Alive@115-10#alien@0-4@Alive@125-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@85-10#alien@0-1@Alive@95-10#powerful@0-2@Alive@105-10#alien@0-3@Alive@115-10#alien@0-4@Alive@125-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@85-10#alien@0-1@Alive@95-10#powerful@0-2@Alive@105-10#alien@0-3@Alive@115-10#alien@0-4@Alive@125-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@85-10#alien@0-1@Alive@95-10#powerful@0-2@Alive@105-10#alien@0-3@Alive@115-10#alien@0-4@Alive@125-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@85-10#alien@0-1@Alive@95-10#powerful@0-2@Alive@105-10#alien@0-3@Alive@115-10#alien@0-4@Alive@125-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@85-10#alien@0-1@Alive@95-10#powerful@0-2@Alive@105-10#alien@0-3@Alive@115-10#alien@0-4@Alive@125-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@85-10#alien@0-1@Alive@95-10#powerful@0-2@Alive@105-10#alien@0-3@Alive@115-10#alien@0-4@Alive@125-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@95-10#alien@0-1@Alive@105-10#powerful@0-2@Alive@115-10#alien@0-3@Alive@125-10#alien@0-4@Alive@135-10#
+Aliens start moving fast
+Alien locations: alien@0-0@Alive@95-10#alien@0-1@Alive@105-10#powerful@0-2@Alive@115-10#alien@0-3@Alive@125-10#alien@0-4@Alive@135-10#
+Aliens start moving fast
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
